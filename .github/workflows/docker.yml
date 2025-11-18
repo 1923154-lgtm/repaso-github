@@ -39,4 +39,4 @@ jobs:
           push: true
           tags: |
             cristiiaanlp/practica_cicd:latest
-            ghcr.io/cristiiaanlp/practica_cicd:latest
+            ghcr.io/1923154-lgtm/practica_cicd:latest
